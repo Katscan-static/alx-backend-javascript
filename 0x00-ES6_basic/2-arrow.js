@@ -5,7 +5,4 @@ const getNeighborhoodsList = () => {
     this.sanFranciscoNeighborhoods.push(newNeighborhood);
     return this.sanFranciscoNeighborhoods;
   };
-};
-
-export default getNeighborhoodsList;
-
+}
